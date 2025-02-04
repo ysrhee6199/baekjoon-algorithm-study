@@ -49,6 +49,10 @@
         "xmemory": "cpp",
         "xtr1common": "cpp",
         "algorithm": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
     }
 }
